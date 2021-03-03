@@ -2,8 +2,10 @@
 
 ***Transformer for CV***
 1. **Generative Adversarial Transformers**, [[Paper](https://arxiv.org/pdf/2103.01209.pdf)], [[Code](https://github.com/dorarad/gansformer)]
+2. **Pre-Trained Image Processing Transformer**, [[Paper](https://arxiv.org/pdf/2012.00364.pdf)], [[Code]()]
+3. **Transformer Interpretability Beyond Attention Visualization**, [[Paper](https://arxiv.org/pdf/2012.09838.pdf)], [[Code](https://github.com/hila-chefer/Transformer-Explainability)]
 
 - - -
 ***Image Restoration***
 1. **AdderSR: Towards Energy Efficient Image Super-Resolution**, [[Paper](https://arxiv.org/pdf/2009.08891.pdf)], [[Code](https://github.com/huawei-noah/AdderNet)]
-2. **Multi-Stage Progressive Image Restoration**, [[Papper][https://arxiv.org/abs/2102.02808]], [[Code](https://github.com/swz30/MPRNet)]
+2. **Multi-Stage Progressive Image Restoration**, [[Papper](https://arxiv.org/abs/2102.02808)], [[Code](https://github.com/swz30/MPRNet)]
