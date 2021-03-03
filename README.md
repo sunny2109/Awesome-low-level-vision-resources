@@ -4,7 +4,7 @@
 1. **Pre-Trained Image Processing Transformer**, [[Paper](https://arxiv.org/pdf/2012.00364.pdf)], [[Code]()]
 2. **Transformer Interpretability Beyond Attention Visualization**, [[Paper](https://arxiv.org/pdf/2012.09838.pdf)], [[Code](https://github.com/hila-chefer/Transformer-Explainability)]
 3. **Generative Adversarial Transformers**, [[Paper](https://arxiv.org/pdf/2103.01209.pdf)], [[Code](https://github.com/dorarad/gansformer)]
-4. **Transformer in Transfomer**, [[Paper](https://arxiv.org/abs/2103.00112)], [[https://github.com/huawei-noah/noah-research/tree/master/TNT]]
+4. **Transformer in Transfomer**, [[Paper](https://arxiv.org/abs/2103.00112)], [[Code](https://github.com/huawei-noah/noah-research/tree/master/TNT)]
 
 - - -
 ***Image Manipulation***
