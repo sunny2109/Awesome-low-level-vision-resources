@@ -1,1 +1,1 @@
-# CVPR2021-Transformer-for-CV-Image-Restoration
+# Paper with Code --- [CVPR2021]
