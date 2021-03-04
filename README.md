@@ -14,4 +14,7 @@
 4. **HiSD: Image-to-image Translation via Hierarchical Style Disentanglement**, [[Paper](https://arxiv.org/abs/2103.01456)], [[Code](https://github.com/imlixinyang/HiSD)]
 5. **Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**, [[Paper]()], [[Code]()]
 6. **Learning Multi-Scale Photo Exposure Correction**, [[Paper](https://arxiv.org/pdf/2003.11596.pdf)], [[Code](https://github.com/mahmoudnafifi/Exposure_Correction)]
-7. 
+
+---
+***Video Manipulation***
+1. **FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation**, [[Paper](https://arxiv.org/abs/2012.08512)], [[Code](https://tarun005.github.io/FLAVR/)]
