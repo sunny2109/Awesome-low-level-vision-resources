@@ -17,12 +17,13 @@
 4. **Cross-MPI: Cross-scale Stereo for Image Super-Resolution using Multiplane Images**, [[Paper](https://arxiv.org/abs/2011.14631)], [[Code](http://www.liuyebin.com/crossMPI/crossMPI.html)]
 5. **Multi-Stage Progressive Image Restoration**, [[Papper](https://arxiv.org/abs/2102.02808)], [[Code](https://github.com/swz30/MPRNet)]
 6. **Auto-Exposure Fusion for Single-Image Shadow Removal**, [[Paper](https://arxiv.org/abs/2103.01255)], [[Code](https://github.com/tsingqguo/exposure-fusion-shadow-removal)]
-7. **HiSD: Image-to-image Translation via Hierarchical Style Disentanglement**, [[Paper](https://arxiv.org/abs/2103.01456)], [[Code](https://github.com/imlixinyang/HiSD)]
-8. **Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**, [[Paper]()], [[Code]()]
-9. **Learning Multi-Scale Photo Exposure Correction**, [[Paper](https://arxiv.org/pdf/2003.11596.pdf)], [[Code](https://github.com/mahmoudnafifi/Exposure_Correction)]
-10. **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation**, [[Paper](https://arxiv.org/abs/2008.00951)][[Code](https://github.com/eladrich/pixel2style2pixel)]
-11. **DeFMO: Deblurring and Shape Recovery of Fast Moving Objects**, [[Paper](https://arxiv.org/abs/2012.00595)], [[Code](https://github.com/rozumden/DeFMO)]
-12. **Anycost GANs for Interactive Image Synthesis and Editing**, [[Paper](https://arxiv.org/abs/2103.03243)], [[Code](https://github.com/mit-han-lab/anycost-gan)]
+7. **Removing Raindrops and Rain Streaks in One Go**
+8. **HiSD: Image-to-image Translation via Hierarchical Style Disentanglement**, [[Paper](https://arxiv.org/abs/2103.01456)], [[Code](https://github.com/imlixinyang/HiSD)]
+9. **Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**, [[Paper]()], [[Code]()]
+10. **Learning Multi-Scale Photo Exposure Correction**, [[Paper](https://arxiv.org/pdf/2003.11596.pdf)], [[Code](https://github.com/mahmoudnafifi/Exposure_Correction)]
+11. **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation**, [[Paper](https://arxiv.org/abs/2008.00951)][[Code](https://github.com/eladrich/pixel2style2pixel)]
+12. **DeFMO: Deblurring and Shape Recovery of Fast Moving Objects**, [[Paper](https://arxiv.org/abs/2012.00595)], [[Code](https://github.com/rozumden/DeFMO)]
+13. **Anycost GANs for Interactive Image Synthesis and Editing**, [[Paper](https://arxiv.org/abs/2103.03243)], [[Code](https://github.com/mit-han-lab/anycost-gan)]
 
 ---
 ***Video Manipulation***
