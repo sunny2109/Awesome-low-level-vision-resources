@@ -21,14 +21,14 @@
 8. **Removing Raindrops and Rain Streaks in One Go**, `Image Deraining`,
 9. **DeFMO: Deblurring and Shape Recovery of Fast Moving Objects**, `Image Deblurring`, [[Paper](https://arxiv.org/abs/2012.00595)], [[Code](https://github.com/rozumden/DeFMO)]
 10. **PD-GAN:Probabilistic Diverse GAN for Image Inpainting**, `Image Inpainting`,  [[Paper]()], [[Code](https://github.com/KumapowerLIU/PD-GAN)]
-11. **HiSD: Image-to-image Translation via Hierarchical Style Disentanglement**, `Image Translationg`, [[Paper](https://arxiv.org/abs/2103.01456)], [[Code](https://github.com/imlixinyang/HiSD)]
-12. **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation**, `Image Translationg`, [[Paper](https://arxiv.org/abs/2008.00951)][[Code](https://github.com/eladrich/pixel2style2pixel)]
+11. **HiSD: Image-to-image Translation via Hierarchical Style Disentanglement**, `Image Translation`, [[Paper](https://arxiv.org/abs/2103.01456)], [[Code](https://github.com/imlixinyang/HiSD)]
+12. **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation**, `Image Translation`, [[Paper](https://arxiv.org/abs/2008.00951)][[Code](https://github.com/eladrich/pixel2style2pixel)]
 13. **Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**, `Image Editing`, [[Paper]()], [[Code]()]
 14. **Anycost GANs for Interactive Image Synthesis and Editing**, `Image Editing`, [[Paper](https://arxiv.org/abs/2103.03243)], [[Code](https://github.com/mit-han-lab/anycost-gan)]
 15. **Learning Multi-Scale Photo Exposure Correction**, `Image Enhancement`, [[Paper](https://arxiv.org/pdf/2003.11596.pdf)], [[Code](https://github.com/mahmoudnafifi/Exposure_Correction)]
 
 ---
 ***Video Manipulation***
-1. **FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation**, [[Paper](https://arxiv.org/abs/2012.08512)], [[Code](https://tarun005.github.io/FLAVR/)]
-2. **Real-Time High Resolution Background Matting**, [[Paper](https://arxiv.org/abs/2012.07810)], [[Code](https://github.com/PeterL1n/BackgroundMattingV2)]
-3. **CDFI: Compression-driven Network Design for Frame Interpolation**, [[Paper]()], [[Code](https://github.com/tding1/Compression-Driven-Frame-Interpolation)]
+1. **FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation**, `Video Interpolation`, [[Paper](https://arxiv.org/abs/2012.08512)], [[Code](https://tarun005.github.io/FLAVR/)]
+2. **CDFI: Compression-driven Network Design for Frame Interpolation**, `Video Interpolation`, [[Paper]()], [[Code](https://github.com/tding1/Compression-Driven-Frame-Interpolation)]
+3. **Real-Time High Resolution Background Matting**, `Video Background Matting`, [[Paper](https://arxiv.org/abs/2012.07810)], [[Code](https://github.com/PeterL1n/BackgroundMattingV2)]
