@@ -16,28 +16,31 @@
 3. **ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic**, `Efficient SR`, [[Paper]()], [[Code](https://github.com/Xiangtaokong/ClassSR)]
 4. **Cross-MPI: Cross-scale Stereo for Image Super-Resolution using Multiplane Images**, `Stereo SR`, [[Paper](https://arxiv.org/abs/2011.14631)], [[Code](http://www.liuyebin.com/crossMPI/crossMPI.html)]
 5. **Learning Continuous Image Representation with Local Implicit Image Function**, `SR with Large Scale Factor`, [[Paper](https://arxiv.org/abs/2012.09161)], [[Code](https://github.com/yinboc/liif)]
-6. **Multi-Stage Progressive Image Restoration**, `Image Restoration`, [[Papper](https://arxiv.org/abs/2102.02808)], [[Code](https://github.com/swz30/MPRNet)]
-7. **Dual Pixel Exploration: Simultaneous Depth Estimation and Image Restoration**, `Image Restoration`, [[Paper](https://arxiv.org/pdf/2012.00301.pdf)], [[Code](https://github.com/panpanfei/Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration)]
-8. **Auto-Exposure Fusion for Single-Image Shadow Removal**, `Shadow Removal`, [[Paper](https://arxiv.org/abs/2103.01255)], [[Code](https://github.com/tsingqguo/exposure-fusion-shadow-removal)]
-9. **Robust Reflection Removal with Reflection-free Flash-only Cues**, `Shadow Removal`, [[Paper](https://arxiv.org/pdf/2103.04273.pdf)], [[Code](https://github.com/ChenyangLEI/flash-reflection-removal)]
-10. **Removing Raindrops and Rain Streaks in One Go**, `Image Deraining`,
-11. **DeFMO: Deblurring and Shape Recovery of Fast Moving Objects**, `Image Deblurring`, [[Paper](https://arxiv.org/abs/2012.00595)], [[Code](https://github.com/rozumden/DeFMO)]
-12. **Contrastive Learning for Compact Single Image Dehazing**, `Image Dehazing`,
-13. **PD-GAN:Probabilistic Diverse GAN for Image Inpainting**, `Image Inpainting`,  [[Paper]()], [[Code](https://github.com/KumapowerLIU/PD-GAN)]
-14. **HiSD: Image-to-image Translation via Hierarchical Style Disentanglement**, `Image Translation`, [[Paper](https://arxiv.org/abs/2103.01456)], [[Code](https://github.com/imlixinyang/HiSD)]
-15. **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation**, `Image Translation`, [[Paper](https://arxiv.org/abs/2008.00951)][[Code](https://github.com/eladrich/pixel2style2pixel)]
-16. **Spatially-Adaptive Pixelwise Networks for Fast Image Translation**, `Image Translation`, [[Paper](https://arxiv.org/abs/2012.02992)][[Code](https://tamarott.github.io/ASAPNet_web/)]
-17. **Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**, `Image Editing`, [[Paper]()], [[Code]()]
-18. **Anycost GANs for Interactive Image Synthesis and Editing**, `Image Editing`, [[Paper](https://arxiv.org/abs/2103.03243)], [[Code](https://github.com/mit-han-lab/anycost-gan)]
-19. **PISE: Person Image Synthesis and Editing with Decoupled GAN**, `Image Editing`, [[Paper](https://arxiv.org/abs/2103.04023)], [[Code](https://github.com/Zhangjinso/PISE)]
-20. **Closed-Form Factorization of Latent Semantics in GANs**, `Image Editing`, [[Paper](https://arxiv.org/pdf/2007.06600.pdf)], [[Code](https://github.com/genforce/sefa)]
-21. **Learning Multi-Scale Photo Exposure Correction**, `Image Enhancement`, [[Paper](https://arxiv.org/pdf/2003.11596.pdf)], [[Code](https://github.com/mahmoudnafifi/Exposure_Correction)]
-22. **Restoring Extremely Dark Images in Real Time**, `Image Enhancement`, [[Code](https://github.com/MohitLamba94/Restoring-Extremely-Dark-Images-In-Real-Time)]
+6. **GLEAN: Generative LatEnt BANk for Large-Factor Image Super-Resolution**, `SR with Large Scale Factor`, [[Paper](https://ckkelvinchan.github.io/papers/glean.pdf)], [[Code](https://ckkelvinchan.github.io/projects/GLEAN/)]
+7. **Multi-Stage Progressive Image Restoration**, `Image Restoration`, [[Papper](https://arxiv.org/abs/2102.02808)], [[Code](https://github.com/swz30/MPRNet)]
+8. **Dual Pixel Exploration: Simultaneous Depth Estimation and Image Restoration**, `Image Restoration`, [[Paper](https://arxiv.org/pdf/2012.00301.pdf)], [[Code](https://github.com/panpanfei/Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration)]
+9. **Auto-Exposure Fusion for Single-Image Shadow Removal**, `Shadow Removal`, [[Paper](https://arxiv.org/abs/2103.01255)], [[Code](https://github.com/tsingqguo/exposure-fusion-shadow-removal)]
+10. **Robust Reflection Removal with Reflection-free Flash-only Cues**, `Shadow Removal`, [[Paper](https://arxiv.org/pdf/2103.04273.pdf)], [[Code](https://github.com/ChenyangLEI/flash-reflection-removal)]
+11. **Removing Raindrops and Rain Streaks in One Go**, `Image Deraining`,
+12. **DeFMO: Deblurring and Shape Recovery of Fast Moving Objects**, `Image Deblurring`, [[Paper](https://arxiv.org/abs/2012.00595)], [[Code](https://github.com/rozumden/DeFMO)]
+13. **Contrastive Learning for Compact Single Image Dehazing**, `Image Dehazing`,
+14. **PD-GAN:Probabilistic Diverse GAN for Image Inpainting**, `Image Inpainting`,  [[Paper]()], [[Code](https://github.com/KumapowerLIU/PD-GAN)]
+15. **HiSD: Image-to-image Translation via Hierarchical Style Disentanglement**, `Image Translation`, [[Paper](https://arxiv.org/abs/2103.01456)], [[Code](https://github.com/imlixinyang/HiSD)]
+16. **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation**, `Image Translation`, [[Paper](https://arxiv.org/abs/2008.00951)][[Code](https://github.com/eladrich/pixel2style2pixel)]
+17. **Spatially-Adaptive Pixelwise Networks for Fast Image Translation**, `Image Translation`, [[Paper](https://arxiv.org/abs/2012.02992)][[Code](https://tamarott.github.io/ASAPNet_web/)]
+18. **Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**, `Image Editing`, [[Paper]()], [[Code]()]
+19. **Anycost GANs for Interactive Image Synthesis and Editing**, `Image Editing`, [[Paper](https://arxiv.org/abs/2103.03243)], [[Code](https://github.com/mit-han-lab/anycost-gan)]
+20. **PISE: Person Image Synthesis and Editing with Decoupled GAN**, `Image Editing`, [[Paper](https://arxiv.org/abs/2103.04023)], [[Code](https://github.com/Zhangjinso/PISE)]
+21. **Closed-Form Factorization of Latent Semantics in GANs**, `Image Editing`, [[Paper](https://arxiv.org/pdf/2007.06600.pdf)], [[Code](https://github.com/genforce/sefa)]
+22. **Learning Multi-Scale Photo Exposure Correction**, `Image Enhancement`, [[Paper](https://arxiv.org/pdf/2003.11596.pdf)], [[Code](https://github.com/mahmoudnafifi/Exposure_Correction)]
+23. **Restoring Extremely Dark Images in Real Time**, `Image Enhancement`, [[Code](https://github.com/MohitLamba94/Restoring-Extremely-Dark-Images-In-Real-Time)]
 
 ---
 ***Video Manipulation***
 1. **FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation**, `Video Interpolation`, [[Paper](https://arxiv.org/abs/2012.08512)], [[Code](https://tarun005.github.io/FLAVR/)]
 2. **CDFI: Compression-driven Network Design for Frame Interpolation**, `Video Interpolation`, [[Paper]()], [[Code](https://github.com/tding1/Compression-Driven-Frame-Interpolation)]
-3. **ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring**, `Video Deblurring`, [[Paper](https://arxiv.org/pdf/2103.04260.pdf)], [[Code]()]
-4. **Real-Time High Resolution Background Matting**, `Video Background Matting`, [[Paper](https://arxiv.org/abs/2012.07810)], [[Code](https://github.com/PeterL1n/BackgroundMattingV2)]
-5. **Learning to Restore Hazy Video: A New Real-World Dataset and A New Method**, `Video Dehazing`,
+3. **TemporalModulation Network for Controllable Space-Time Video Super-Resolution**,`Video Super-Resolution`, 
+4. **BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond**, `Video Super-Resolution`, [[Paper](https://ckkelvinchan.github.io/projects/BasicVSR/)], [[Code](https://github.com/ckkelvinchan/BasicVSR-IconVSR)]
+5. **ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring**, `Video Deblurring`, [[Paper](https://arxiv.org/pdf/2103.04260.pdf)], [[Code]()]
+6. **Real-Time High Resolution Background Matting**, `Video Background Matting`, [[Paper](https://arxiv.org/abs/2012.07810)], [[Code](https://github.com/PeterL1n/BackgroundMattingV2)]
+7. **Learning to Restore Hazy Video: A New Real-World Dataset and A New Method**, `Video Dehazing`,
