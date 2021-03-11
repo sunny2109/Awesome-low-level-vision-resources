@@ -29,9 +29,10 @@
 16. **Spatially-Adaptive Pixelwise Networks for Fast Image Translation**, `Image Translation`, [[Paper](https://arxiv.org/abs/2012.02992)][[Code](https://tamarott.github.io/ASAPNet_web/)]
 17. **Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**, `Image Editing`, [[Paper]()], [[Code]()]
 18. **Anycost GANs for Interactive Image Synthesis and Editing**, `Image Editing`, [[Paper](https://arxiv.org/abs/2103.03243)], [[Code](https://github.com/mit-han-lab/anycost-gan)]
-19. **PISE: Person Image Synthesis and Editing with Decoupled GAN**, `Image Editing`, [[Paper](https://arxiv.org/abs/2103.04023)], [[Code](https://arxiv.org/abs/2103.04023)]
-20. **Learning Multi-Scale Photo Exposure Correction**, `Image Enhancement`, [[Paper](https://arxiv.org/pdf/2003.11596.pdf)], [[Code](https://github.com/mahmoudnafifi/Exposure_Correction)]
-21. **Restoring Extremely Dark Images in Real Time**, `Image Enhancement`, [[Code](https://github.com/MohitLamba94/Restoring-Extremely-Dark-Images-In-Real-Time)]
+19. **PISE: Person Image Synthesis and Editing with Decoupled GAN**, `Image Editing`, [[Paper](https://arxiv.org/abs/2103.04023)], [[Code](https://github.com/Zhangjinso/PISE)]
+20. **Closed-Form Factorization of Latent Semantics in GANs**, `Image Editing`, [[Paper](https://arxiv.org/pdf/2007.06600.pdf)], [[Code](https://github.com/genforce/sefa)]
+21. **Learning Multi-Scale Photo Exposure Correction**, `Image Enhancement`, [[Paper](https://arxiv.org/pdf/2003.11596.pdf)], [[Code](https://github.com/mahmoudnafifi/Exposure_Correction)]
+22. **Restoring Extremely Dark Images in Real Time**, `Image Enhancement`, [[Code](https://github.com/MohitLamba94/Restoring-Extremely-Dark-Images-In-Real-Time)]
 
 ---
 ***Video Manipulation***
