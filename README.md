@@ -14,7 +14,7 @@
 ***Image Manipulation***
 1. **AdderSR: Towards Energy Efficient Image Super-Resolution**, `Efficient SR`, [[Paper](https://arxiv.org/pdf/2009.08891.pdf)], [[Code](https://github.com/huawei-noah/AdderNet)]
 2. **Exploring Sparsity in Image Super-Resolution for Efficient Inference**, `Efficient SR`, [[Paper](https://arxiv.org/abs/2006.09603)], [[Code](https://github.com/LongguangWang/SMSR)]
-3. **ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic**, `Efficient SR`, [[Paper]()], [[Code](https://github.com/Xiangtaokong/ClassSR)]
+3. **ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic**, `Efficient SR`, [[Paper](https://arxiv.org/pdf/2103.04039.pdf)], [[Code](https://github.com/Xiangtaokong/ClassSR)]
 4. **Cross-MPI: Cross-scale Stereo for Image Super-Resolution using Multiplane Images**, `Stereo SR`, [[Paper](https://arxiv.org/abs/2011.14631)], [[Code](http://www.liuyebin.com/crossMPI/crossMPI.html)]
 5. **Learning Continuous Image Representation with Local Implicit Image Function**, `SR with Large Scale Factor`, [[Paper](https://arxiv.org/abs/2012.09161)], [[Code](https://github.com/yinboc/liif)]
 6. **GLEAN: Generative LatEnt BANk for Large-Factor Image Super-Resolution**, `SR with Large Scale Factor`, [[Paper](https://ckkelvinchan.github.io/papers/glean.pdf)], [[Code](https://ckkelvinchan.github.io/projects/GLEAN/)]
