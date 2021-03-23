@@ -53,4 +53,4 @@
 6. **ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring**, `Video Deblurring`, [[Paper](https://arxiv.org/pdf/2103.04260.pdf)], [[Code]()]
 7. **Real-Time High Resolution Background Matting**, `Video Background Matting`, [[Paper](https://arxiv.org/abs/2012.07810)], [[Code](https://github.com/PeterL1n/BackgroundMattingV2)]
 8. **Learning to Restore Hazy Video: A New Real-World Dataset and A New Method**, `Video Dehazing`,
-9. **semi-Supervised Video Deraining Embedded with Dynamical Rain Generator**, `Video Deraining`, [[Paper](https://arxiv.org/abs/2103.07939)], [[Code](https://github.com/zsyOAOA/S2VD)]
+9. **Semi-Supervised Video Deraining Embedded with Dynamical Rain Generator**, `Video Deraining`, [[Paper](https://arxiv.org/abs/2103.07939)], [[Code](https://github.com/zsyOAOA/S2VD)]
