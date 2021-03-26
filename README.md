@@ -50,7 +50,8 @@
 3. **TemporalModulation Network for Controllable Space-Time Video Super-Resolution**,`Video Super-Resolution`, 
 4. **BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond**, `Video Super-Resolution`, [[Paper](https://ckkelvinchan.github.io/projects/BasicVSR/)], [[Code](https://github.com/ckkelvinchan/BasicVSR-IconVSR)]
 5. **Video Rescaling Networks with Joint Optimization Strategies for Downscaling and Upscaling**, `Video Rescaling`, [[Project](https://ding3820.github.io/MIMO-VRN/)], [[Code](https://github.com/ding3820/MIMO-VRN)]
-6. **ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring**, `Video Deblurring`, [[Paper](https://arxiv.org/pdf/2103.04260.pdf)], [[Code]()]
-7. **Real-Time High Resolution Background Matting**, `Video Background Matting`, [[Paper](https://arxiv.org/abs/2012.07810)], [[Code](https://github.com/PeterL1n/BackgroundMattingV2)]
-8. **Learning to Restore Hazy Video: A New Real-World Dataset and A New Method**, `Video Dehazing`,
-9. **Semi-Supervised Video Deraining Embedded with Dynamical Rain Generator**, `Video Deraining`, [[Paper](https://arxiv.org/abs/2103.07939)], [[Code](https://github.com/zsyOAOA/S2VD)]
+6. **Efficient Multi-Stage Video Denoising with Recurrent Spatio-Temporal Fusion**, `Video Denoising`, [[Paper](https://arxiv.org/pdf/2103.05407.pdf)]
+7. **ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring**, `Video Deblurring`, [[Paper](https://arxiv.org/pdf/2103.04260.pdf)], [[Code]()]
+8. **Real-Time High Resolution Background Matting**, `Video Background Matting`, [[Paper](https://arxiv.org/abs/2012.07810)], [[Code](https://github.com/PeterL1n/BackgroundMattingV2)]
+9. **Learning to Restore Hazy Video: A New Real-World Dataset and A New Method**, `Video Dehazing`,
+10. **Semi-Supervised Video Deraining Embedded with Dynamical Rain Generator**, `Video Deraining`, [[Paper](https://arxiv.org/abs/2103.07939)], [[Code](https://github.com/zsyOAOA/S2VD)]
