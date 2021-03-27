@@ -17,7 +17,7 @@
 3. **ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic**, `Efficient SR`, [[Paper](https://arxiv.org/pdf/2103.04039.pdf)], [[Code](https://github.com/Xiangtaokong/ClassSR)]
 4. **Cross-MPI: Cross-scale Stereo for Image Super-Resolution using Multiplane Images**, `Stereo SR`, [[Paper](https://arxiv.org/abs/2011.14631)], [[Code](http://www.liuyebin.com/crossMPI/crossMPI.html)]
 5. **Learning Continuous Image Representation with Local Implicit Image Function**, `SR with Large Scale Factor`, `Oral`, [[Paper](https://arxiv.org/abs/2012.09161)], [[Code](https://github.com/yinboc/liif)]
-6. **GLEAN: Generative LatEnt BANk for Large-Factor Image Super-Resolution**, `SR with Large Scale Factor`, [[Paper](https://ckkelvinchan.github.io/papers/glean.pdf)], [[Code](https://ckkelvinchan.github.io/projects/GLEAN/)]
+6. **GLEAN: Generative LatEnt BANk for Large-Factor Image Super-Resolution**, `SR with Large Scale Factor`, `Oral`, [[Paper](https://ckkelvinchan.github.io/papers/glean.pdf)], [[Code](https://ckkelvinchan.github.io/projects/GLEAN/)]
 7. **LAU-Net: Latitude Adaptive Upscaling Network for Omnidirectional Image Super-resolution**, `Omnidirectional Image Super-resolution`, [[Code](https://github.com/wangh-allen/LAU-Net)]
 8. **Neighbor2Neighbor: Self-Supervised Denoising from Single Noisy Images**, `Image Denoising`, [[Paper](https://arxiv.org/abs/2101.02824)]
 9. **Multi-Stage Progressive Image Restoration**, `Image Restoration`, [[Papper](https://arxiv.org/abs/2102.02808)], [[Code](https://github.com/swz30/MPRNet)]
@@ -47,7 +47,7 @@
 ***Video Manipulation***
 1. **FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation**, `Video Interpolation`, [[Paper](https://arxiv.org/abs/2012.08512)], [[Code](https://tarun005.github.io/FLAVR/)]
 2. **CDFI: Compression-driven Network Design for Frame Interpolation**, `Video Interpolation`, [[Paper]()], [[Code](https://github.com/tding1/Compression-Driven-Frame-Interpolation)]
-3. **TemporalModulation Network for Controllable Space-Time Video Super-Resolution**,`Video Super-Resolution`, 
+3. **Temporal Modulation Network for Controllable Space-Time Video Super-Resolution**,`Video Super-Resolution`, 
 4. **BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond**, `Video Super-Resolution`, [[Paper](https://ckkelvinchan.github.io/projects/BasicVSR/)], [[Code](https://github.com/ckkelvinchan/BasicVSR-IconVSR)]
 5. **Video Rescaling Networks with Joint Optimization Strategies for Downscaling and Upscaling**, `Video Rescaling`, [[Project](https://ding3820.github.io/MIMO-VRN/)], [[Code](https://github.com/ding3820/MIMO-VRN)]
 6. **Efficient Multi-Stage Video Denoising with Recurrent Spatio-Temporal Fusion**, `Video Denoising`, [[Paper](https://arxiv.org/pdf/2103.05407.pdf)]
