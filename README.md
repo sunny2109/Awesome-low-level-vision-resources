@@ -28,7 +28,7 @@
 14. **Robust Reflection Removal with Reflection-free Flash-only Cues**, `Shadow Removal`, [[Paper](https://arxiv.org/pdf/2103.04273.pdf)], [[Code](https://github.com/ChenyangLEI/flash-reflection-removal)]
 15. **Removing Raindrops and Rain Streaks in One Go**, `Image Deraining`,
 16. **Semi-Supervised Video Deraining with Dynamic Rain Generator**, `Image Deraining`, [[Paper](https://arxiv.org/abs/2103.07939)], [[Code](https://github.com/zsyOAOA/S2VD)]
-17. **Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation**, [[Code](https://github.com/guyii54/JRGR)]
+17. **Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation**, `Image Deraining`, [[Code](https://github.com/guyii54/JRGR)]
 18. **DeFMO: Deblurring and Shape Recovery of Fast Moving Objects**, `Image Deblurring`, [[Paper](https://arxiv.org/abs/2012.00595)], [[Code](https://github.com/rozumden/DeFMO)]
 19. **Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes**, `Image Deblurring`, [[Code](https://github.com/zzh-tech/RSCD)]
 20. **Contrastive Learning for Compact Single Image Dehazing**, `Image Dehazing`, [[Code](https://github.com/GlassyWu/AECR-Net)]
