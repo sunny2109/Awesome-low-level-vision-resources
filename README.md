@@ -37,7 +37,7 @@
 23. **Contrastive Learning for Compact Single Image Dehazing**, `Image Dehazing`, [[Code](https://github.com/GlassyWu/AECR-Net)]
 24. **PD-GAN:Probabilistic Diverse GAN for Image Inpainting**, `Image Inpainting`,  [[Paper]()], [[Code](https://github.com/KumapowerLIU/PD-GAN)]
 25. **Generating Diverse Structure for Image Inpainting with Hierarchical VQ-VAE**,`Image Inpainting`, [[Paper](https://arxiv.org/abs/2103.10022)], [[Code](https://github.com/USTC-JialunPeng/Diverse-Structure-Inpainting)]
-26. **Invertible Image Signal Processing**, `ISP`, `RAW2RGB`, [[Code](https://github.com/yzxing87/Invertible-ISP)]
+26. **Invertible Image Signal Processing**, `ISP`, `RAW2RGB`, [[Paper](https://arxiv.org/pdf/2103.15061.pdf)], [[Code](https://github.com/yzxing87/Invertible-ISP)]
 27. **Towards Real-World Blind Face Restoration with Generative Facial Prior**, `Blind Face Restoration`, [[Paper](https://arxiv.org/abs/2101.04061)], [[Project](https://xinntao.github.io/projects/gfpgan)]
 28. **GAN Prior Embedded Network for Blind Face Restoration in the Wild**, `Blind Face Restoration`, [[Paper](http://www4.comp.polyu.edu.hk/~cslzhang/paper/GPEN-cvpr21-final.pdf)], [[Code](https://github.com/yangxy/GPEN)]
 29. **Progressive Semantic-Aware Style Transformation for Blind Face Restoration**, `Blind Face Restoration`, [[Paper](https://arxiv.org/pdf/2009.08709.pdf)], [[Code](https://github.com/chaofengc/PSFRGAN)]
