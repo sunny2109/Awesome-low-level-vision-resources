@@ -20,7 +20,7 @@
 6. **Learning Continuous Image Representation with Local Implicit Image Function**, `SR with Large Scale Factor`, `Oral`, [[Paper](https://arxiv.org/abs/2012.09161)], [[Code](https://github.com/yinboc/liif)]
 7. **GLEAN: Generative LatEnt BANk for Large-Factor Image Super-Resolution**, `SR with Large Scale Factor`, `Oral`, [[Paper](https://ckkelvinchan.github.io/papers/glean.pdf)], [[Code](https://ckkelvinchan.github.io/projects/GLEAN/)]
 8. **LAU-Net: Latitude Adaptive Upscaling Network for Omnidirectional Image Super-resolution**, `Omnidirectional Image Super-resolution`, [[Code](https://github.com/wangh-allen/LAU-Net)]
-9. **Unsupervised Degradation Representation Learning for Blind Super-Resolution**, `Blins SR`, [[Code](https://github.com/LongguangWang/DASR)]
+9. **Unsupervised Degradation Representation Learning for Blind Super-Resolution**, `Blins SR`, [[Paper](https://arxiv.org/pdf/2104.00416.pdf)], [[Code](https://github.com/LongguangWang/DASR)]
 10. **Flow-based Kernel Prior with Application to Blind Super-Resolution**, `Blind SR`, [[Paper](https://arxiv.org/abs/2103.15977)], [[Code](https://github.com/JingyunLiang/FKP)]
 11. **Neighbor2Neighbor: Self-Supervised Denoising from Single Noisy Images**, `Image Denoising`, [[Paper](https://arxiv.org/abs/2101.02824)]
 12. **NBNet: Noise Basis Learning for Image Denoising with Subspace Projection**, `Image Denoising`, [[Paper](https://arxiv.org/abs/2012.15028)]
