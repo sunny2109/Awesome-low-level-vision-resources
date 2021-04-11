@@ -21,7 +21,7 @@ This collection contains resources related to video/image processing, such as op
   - [Awesome Super-Resolution](https://github.com/ptkin/Awesome-Super-Resolution) by [ptkin](https://github.com/ptkin)
 ### Denoising
 - Paper
-  - [Awesome Image or Video Denoising Algorithms](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art)
+  - [Awesome Image or Video Denoising Algorithms](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art) by [Bin Zhang](https://github.com/z-bingo)
 
 ### Debluring
 - Toolbox
