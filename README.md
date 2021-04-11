@@ -1,7 +1,5 @@
 # A curated list of resources for Low-level vision tasks.
 
-# Quick navigation
-
 ### Image/Video Processing Lectures
 This collection contains resources related to video/image processing, such as optimization, deep learning, Python, C++, Opencv, FFmpeg, etc.
  - [Lectures](https://github.com/melo2109/Image-Processing-Video-Lectures)
