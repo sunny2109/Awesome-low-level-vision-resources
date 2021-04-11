@@ -7,7 +7,7 @@
 - [CVPR2021](cvpr2021.md)
 
 ### Super-Resolution
-- [Awesome Super-Resolution by ptkin (https://github.com/ptkin)](SR_Survey.md)
+- [Awesome Super-Resolution](SR_Survey.md) by [ptkin](https://github.com/ptkin)
 ### Denoising
 
 
