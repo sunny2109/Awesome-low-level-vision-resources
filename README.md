@@ -3,7 +3,8 @@
 # Quick navigation
 
 ### Image/Video Processing Lectures
- - [Lectures](https://github.com/melo2109/Image-Processing-Video-Lectures)
+
+ - [Resources](https://github.com/melo2109/Image-Processing-Video-Lectures)
 
 
 ### Conferences
