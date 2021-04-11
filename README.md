@@ -2,4 +2,4 @@
 
 # Paper with Code --- [[CVPR2021](https://github.com/melo2109/CVPR2021-Transformer-and-Low-level-Vision/blob/main/cvpr2021.md)]
 
-# A list of awesome SR by [ptkin](https://github.com/ptkin) --- [[Deep Learning for Image Super-resolution: A Survey](https://github.com/melo2109/Awesome-Super-Resolution)]
+# A list of awesome SR by [ptkin](https://github.com/ptkin) --- [[Awesome Super-Resolution](https://github.com/melo2109/Awesome-Super-Resolution)]
