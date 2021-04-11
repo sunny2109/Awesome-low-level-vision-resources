@@ -23,9 +23,16 @@ This collection contains resources related to video/image processing, such as op
 - Paper
   - [Awesome Image or Video Denoising Algorithms](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art)
 
-
 ### Debluring
 - toolbox
   - [SimDeblur Framework](https://github.com/ljzycmd/SimDeblur)
 - Paper
   - [Awesome-Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring) by [Subeesh Vasu](https://github.com/subeeshvasu)
+
+### Deraining
+- Paper
+  - [DerainZoo](https://github.com/nnUyi/DerainZoo) by [Youzhao Yang](https://github.com/nnUyi) 
+
+### Dehazing
+- Paper
+  - [Awesome Dehazing](https://github.com/youngguncho/awesome-dehazing) by [ygcho](https://github.com/youngguncho)
