@@ -1,4 +1,4 @@
-# A list of awesome low-level vision resources.
+# A curated list of resources for Low-level vision tasks.
 
 # Quick navigation
 
