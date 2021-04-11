@@ -15,7 +15,7 @@ This collection contains resources related to video/image processing, such as op
   - [BasicSR](https://github.com/xinntao/BasicSR) by [Xintao](https://github.com/xinntao)
   - [Simple-SR](https://github.com/Jia-Research-Lab/Simple-SR) by [Jia Research Lab](https://github.com/Jia-Research-Lab)
   - [KAIR](https://github.com/cszn/KAIR) by [Kai Zhang](https://github.com/cszn)
-    - model summary script (`FLOPs`, `#Params`, `Runtime`, `#Activations`, `#Conv2d`, and `Max Memory Allocated`) can be found in `KAIR/main_challenge_sr.py`
+    - The model summary (`FLOPs`, `Params`, `Runtime`, `Activations`, `Conv2d`, and `Max Memory Allocated`) script can be found in `KAIR/main_challenge_sr.py`
   - [MM Editing](https://github.com/open-mmlab/mmediting) by [open-mmlab](https://github.com/open-mmlab)
 - Paper
   - [Awesome Super-Resolution](https://github.com/ptkin/Awesome-Super-Resolution) by [ptkin](https://github.com/ptkin)
