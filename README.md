@@ -27,7 +27,7 @@ This collection contains resources related to video/image processing, such as op
 - - -
 ### Debluring
 - Toolbox
-  - [SimDeblur Framework](https://github.com/ljzycmd/SimDeblur)
+  - [SimDeblur Framework](https://github.com/ljzycmd/SimDeblur) by [ljzycmd](https://github.com/ljzycmd)
 - Paper
   - [Awesome-Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring) by [Subeesh Vasu](https://github.com/subeeshvasu)
 
