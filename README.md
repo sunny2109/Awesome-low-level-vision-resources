@@ -18,7 +18,7 @@ This collection contains resources related to video/image processing, such as op
   - [KAIR](https://github.com/cszn/KAIR) by [Kai Zhang](https://github.com/cszn)
   - [MM Editing](https://github.com/open-mmlab/mmediting) by [open-mmlab](https://github.com/open-mmlab)
 - Paper
- - [Awesome Super-Resolution](SR_Survey.md) by [ptkin](https://github.com/ptkin)
+  - [Awesome Super-Resolution](SR_Survey.md) by [ptkin](https://github.com/ptkin)
 ### Denoising
 - Paper
   - [Awesome Image or Video Denoising Algorithms](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art)
