@@ -5,9 +5,9 @@ This collection contains resources related to video/image processing, such as op
  - [Lectures](https://github.com/melo2109/Image-Processing-Video-Lectures)
 
 - - -
-### Conferences
-- [NeurIPS2020](nips2020.md)
-- [CVPR2021](cvpr2021.md)
+### Top-Ranked Conferences
+- [NeurIPS 2020](nips2020.md)
+- [CVPR 2021](cvpr2021.md)
 
 - - -
 ### Super-Resolution
