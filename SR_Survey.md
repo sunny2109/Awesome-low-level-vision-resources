@@ -548,6 +548,7 @@ If this repository is helpful to you, please cite our [survey](https://arxiv.org
 | 6  |DPED      |      -       |     -       |  -   | Smartphone Images, [[NTIRE2020](https://competitions.codalab.org/competitions/22221)|
 | 7  |RAW-SR     |      -       |     -       |  -   | Towards Real Scene Super-Resolution with Raw Images (CVPR2019), [[NTIRE2020](https://www.dropbox.com/s/8dqgdnkfuk9fmwd/RawSR.zip?dl=0)]|
 | 8  |Super-Resolution Erlangen (SupER) database     |      -       |     -       |  -   | TPAMI2020, [[project](https://www.lms.tf.fau.eu/research/downloads/superresolution/)]|
+| 9  |Youku-VESR    |      -       |     -       |  -   | [[Project](https://tianchi.aliyun.com/competition/entrance/231711/information)], [[dataset](https://tianchi.aliyun.com/dataset/dataDetail?dataId=39568)]|
 
 ## 5. SR Metrics
 
