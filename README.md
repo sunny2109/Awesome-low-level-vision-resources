@@ -13,6 +13,7 @@ This collection contains resources related to video/image processing, such as op
 ### Super-Resolution
 - Toolbox
   - [BasicSR](https://github.com/xinntao/BasicSR) by [Xintao](https://github.com/xinntao)
+  - [EDSR](https://github.com/sanghyun-son/EDSR-PyTorch) by [Sanghyun Son](https://github.com/sanghyun-son)
   - [Simple-SR](https://github.com/Jia-Research-Lab/Simple-SR) by [Jia Research Lab](https://github.com/Jia-Research-Lab)
   - [KAIR](https://github.com/cszn/KAIR) by [Kai Zhang](https://github.com/cszn)
     - The model summary (`FLOPs`, `Params`, `Runtime`, `Activations`, `Conv2d`, and `Max Memory Allocated`) script can be found in [`KAIR/main_challenge_sr.py`](https://github.com/cszn/KAIR/blob/23b0d0f717980e48fad02513ba14045d57264fe1/main_challenge_sr.py)
