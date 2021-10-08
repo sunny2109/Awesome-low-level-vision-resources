@@ -25,6 +25,7 @@ This collection contains resources related to video/image processing, such as op
   - [MM Editing](https://github.com/open-mmlab/mmediting) by [open-mmlab](https://github.com/open-mmlab)
 - Paper
   - [Awesome Super-Resolution](https://github.com/ptkin/Awesome-Super-Resolution) by [ptkin](https://github.com/ptkin)
+  - [Notes on Image/Video Restoration](https://www.zhihu.com/column/c_1372300368395776001)
 
 - - -
 ### Denoising
