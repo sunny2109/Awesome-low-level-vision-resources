@@ -1,9 +1,9 @@
 # A curated list of resources for low-level vision tasks.
 
 ### Reading & Technical writing
-  - [如何读论文-`李沐`](https://www.bilibili.com/video/BV1H44y1t75x)
+  - [如何读论文-李沐](https://www.bilibili.com/video/BV1H44y1t75x)
   - [Common mistakes in technical writing](https://cs.dartmouth.edu/~wjarosz/writing.md.html)
-  - [Writing (**CS paper**) & research resources](https://vision.sjtu.edu.cn/writing.html)
+  - [Writing (CS paper) & research resources](https://vision.sjtu.edu.cn/writing.html)
 
 ### Image/Video Processing Lectures
 This collection contains resources related to video/image processing, such as optimization, deep learning, Python, C++, Opencv, FFmpeg, etc.
