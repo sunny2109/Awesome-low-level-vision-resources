@@ -1,5 +1,10 @@
 # A curated list of resources for low-level vision tasks.
 
+### technical writing
+  - [Common mistakes in technical writing](https://cs.dartmouth.edu/~wjarosz/writing.md.html)
+  - [Writing & research resources](https://vision.sjtu.edu.cn/writing.html)
+    - [Ten Tips for Writing CS Papers]
+
 ### Image/Video Processing Lectures
 This collection contains resources related to video/image processing, such as optimization, deep learning, Python, C++, Opencv, FFmpeg, etc.
  - [Lectures](https://github.com/melo2109/Image-Processing-Video-Lectures)
