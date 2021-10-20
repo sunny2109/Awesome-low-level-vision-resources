@@ -13,6 +13,7 @@ This collection contains resources related to video/image processing, such as op
 ### Top-Ranked Conferences
 - [NeurIPS 2020](nips2020.md)
 - [CVPR 2021](cvpr2021.md)
+- [ICCV 2021](iccv21.md)
 
 - - -
 ### Super-Resolution
