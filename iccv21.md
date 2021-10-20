@@ -41,8 +41,7 @@
   2. **COMISR: Compression-Informed Video Super-Resolution**, `Compressed Frame VSR`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_COMISR_Compression-Informed_Video_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https://github.com/google-research/google-research/tree/master/comisr)]
   3. **Deep Blind Video Super-resolution**, 'Blind VSR', [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Pan_Deep_Blind_Video_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https://github.com/cscss/DBVSR)]
   4. **Real-world Video Super-resolution: A Benchmark Dataset and A Decomposition based Learning Scheme**, `New dataset`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Real-World_Video_Super-Resolution_A_Benchmark_Dataset_and_a_Decomposition_Based_ICCV_2021_paper.pdf)], [[Code](https://github.com/IanYeung/RealVSR)]
-  5. **Efficient Video Compression via Content-Adaptive Super-Resolution**, `Video Compression, VSR`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Khani_Efficient_Video_Compression_via_Content-Adaptive_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https:
-//github.com/AdaptiveVC/SRVC.git)]
+  5. **Efficient Video Compression via Content-Adaptive Super-Resolution**, `Video Compression, VSR`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Khani_Efficient_Video_Compression_via_Content-Adaptive_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https://github.com/AdaptiveVC/SRVC.git)]
 
 - Video Deblurring
   1. **Multi-Scale Separable Network for Ultra-High-Definition Video Deblurring**, `Multi-Scale`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Deng_Multi-Scale_Separable_Network_for_Ultra-High-Definition_Video_Deblurring_ICCV_2021_paper.pdf)], [[Code](https://github.com/dseny/UHDVD)]
