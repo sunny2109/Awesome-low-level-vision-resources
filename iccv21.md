@@ -45,7 +45,7 @@
 //github.com/AdaptiveVC/SRVC.git)]
 
 -Video Deblurring
-  1. **Multi-Scale Separable Network for Ultra-High-Definition Video Deblurring*, `*Multi-Scale`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Deng_Multi-Scale_Separable_Network_for_Ultra-High-Definition_Video_Deblurring_ICCV_2021_paper.pdf)], [[Code](https://github.com/dseny/UHDVD)]
+  1. **Multi-Scale Separable Network for Ultra-High-Definition Video Deblurring**, `Multi-Scale`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Deng_Multi-Scale_Separable_Network_for_Ultra-High-Definition_Video_Deblurring_ICCV_2021_paper.pdf)], [[Code](https://github.com/dseny/UHDVD)]
 
 - Video Denosing
   1. **Unsupervised Deep Video Denoising**, `not require explicit motion compensation`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sheth_Unsupervised_Deep_Video_Denoising_ICCV_2021_paper.pdf)], [[Code](https://sreyas-mohan.github.io/udvd/)]
