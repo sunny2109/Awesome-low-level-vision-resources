@@ -44,7 +44,7 @@
   5. **Efficient Video Compression via Content-Adaptive Super-Resolution**, `Video Compression, VSR`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Khani_Efficient_Video_Compression_via_Content-Adaptive_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https:
 //github.com/AdaptiveVC/SRVC.git)]
 
--Video Deblurring
+- Video Deblurring
   1. **Multi-Scale Separable Network for Ultra-High-Definition Video Deblurring**, `Multi-Scale`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Deng_Multi-Scale_Separable_Network_for_Ultra-High-Definition_Video_Deblurring_ICCV_2021_paper.pdf)], [[Code](https://github.com/dseny/UHDVD)]
 
 - Video Denosing
