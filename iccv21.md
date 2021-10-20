@@ -4,43 +4,51 @@
   - Image Super-Resolution
     1. **Fourier Space Losses for Efficient Perceptual Image Super-Resolution**, `Frequency loss`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fuoli_Fourier_Space_Losses_for_Efficient_Perceptual_Image_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https://github.com/dariofuoli/)]
     2. **Designing a Practical Degradation Model for Deep Blind Image Super-Resolution**, `Degradation Modeling`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Designing_a_Practical_Degradation_Model_for_Deep_Blind_Image_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https://github.com/cszn/BSRGAN)]
-    3. **Dynamic High-Pass Filtering and Multi-Spectral Attention for Image Super-Resolution**, `DCT + Model Design`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Magid_Dynamic_High-Pass_Filtering_and_Multi-Spectral_Attention_for_Image_Super-Resolution_ICCV_2021_paper.pdf)], [[Code]()]
+    3. **Dynamic High-Pass Filtering and Multi-Spectral Attention for Image Super-Resolution**, `DCT + Model Design`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Magid_Dynamic_High-Pass_Filtering_and_Multi-Spectral_Attention_for_Image_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https://paperswithcode.com/paper/dynamic-high-pass-filtering-and-multi)]
     4. **Context Reasoning Attention Network for Image Super-Resolution**, `Attention + Model Design`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Context_Reasoning_Attention_Network_for_Image_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https://github.com/yulunzhang)]
     5. **Mutual Affine Network for Spatially Variant Kernel Estimation in Blind Image Super-Resolution**, `Spatially Variant Kernel Estimation+ SFT + Blind SR`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liang_Mutual_Affine_Network_for_Spatially_Variant_Kernel_Estimation_in_Blind_ICCV_2021_paper.pdf)], [[Code](https://github.com/JingyunLiang/MANet)]
     6. **Benchmarking Ultra-High-Definition Image Super-resolution**, ` UHD Datasets(4K/8K)`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Benchmarking_Ultra-High-Definition_Image_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https://github.com/HDCVLab/Benchmarking-Ultra-High-Definition-Image-Super-resolution)]
     7. **Attention-based Multi-Reference Learning for Image Super-Resolution**, `ReferenceSR`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Pesavento_Attention-Based_Multi-Reference_Learning_for_Image_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https://marcopesavento.github.io/AMRSR/)]
     8. **Hierarchical Conditional Flow: A Unified Framework for Image Super-Resolution and Image Rescaling**, `Normalizing Flow + Image Rescaling + Reverse`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liang_Hierarchical_Conditional_Flow_A_Unified_Framework_for_Image_Super-Resolution_and_ICCV_2021_paper.pdf)], [[Code](https://github.com/JingyunLiang/HCFlow)]
-  
+    9. **Learning A Single Network for Scale-Arbitrary Super-Resolution**, `Scale-Arbitrary`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Learning_a_Single_Network_for_Scale-Arbitrary_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https://github.com/LongguangWang/Scale-Arbitrary-SR)]
+    10. **Achieving on-Mobile Real-Time Super-Resolution with Neural Architecture and Pruning Search**, `Efficient SR, NAS`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhan_Achieving_On-Mobile_Real-Time_Super-Resolution_With_Neural_Architecture_and_Pruning_Search_ICCV_2021_paper.pdf)], [[Code](https://paperswithcode.com/paper/achieving-on-mobile-real-time-super)]
+    11. **Learning Frequency-aware Dynamic Network for Efficient Super-Resolution**, `Frequency, EfficientSR`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xie_Learning_Frequency-Aware_Dynamic_Network_for_Efficient_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https://paperswithcode.com/paper/learning-frequency-aware-dynamic-network-for)]
+    12. ***Super-Resolving Cross-Domain Face Miniatures by Peeking at One-Shot Exemplar*, `Face SR`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Super-Resolving_Cross-Domain_Face_Miniatures_by_Peeking_at_One-Shot_Exemplar_ICCV_2021_paper.pdf)], [[Code](https://paperswithcode.com/paper/super-resolving-cross-domain-face-miniatures)]
+    13. **Lucas-Kanade Reloaded: End-to-End Super-Resolution from Raw Image Bursts**, `Raw Image SR`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Lecouat_Lucas-Kanade_Reloaded_End-to-End_Super-Resolution_From_Raw_Image_Bursts_ICCV_2021_paper.pdf)], [[Code](https://paperswithcode.com/paper/aliasing-is-your-ally-end-to-end-super)]
+    14. **Unsupervised Real-World Super-Resolution: A Domain Adaptation Perspective**, `Unpaired SR`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Unsupervised_Real-World_Super-Resolution_A_Domain_Adaptation_Perspective_ICCV_2021_paper.pdf)], [[Code](https://paperswithcode.com/paper/unsupervised-real-world-super-resolution-a)]
+    15. **Dual-Camera Super-Resolution with Aligned Attention Modules**, `Dual-Camera SR, New Dataset`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Dual-Camera_Super-Resolution_With_Aligned_Attention_Modules_ICCV_2021_paper.pdf)], [[Code](https://github.com/Tengfei-Wang/DCSR)]
+   
+  - Image DeBlurring
+    1. **Single Image Defocus Deblurring Using Kernel-Sharing Parallel Atrous Convolutions**, `Defocus Deblurring`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Son_Single_Image_Defocus_Deblurring_Using_Kernel-Sharing_Parallel_Atrous_Convolutions_ICCV_2021_paper.pdf)], [[Code](https://github.com/HyeongseokSon1/KPAC)]
+    2. **Defocus Map Estimation and Deblurring from a Single Dual-Pixel Image**, `Defocus Map Estimation, Dual-Pixel Image`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xin_Defocus_Map_Estimation_and_Deblurring_From_a_Single_Dual-Pixel_Image_ICCV_2021_paper.pdf)], [[Code](https://paperswithcode.com/paper/defocus-map-estimation-and-deblurring-from-a-1)]
+    3. **Rethinking Coarse-to-Fine Approach in Single Image Deblurring**, `Coarse-to-Fine, Multi-scale`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cho_Rethinking_Coarse-To-Fine_Approach_in_Single_Image_Deblurring_ICCV_2021_paper.pdf)], [[Code](https://github.com/chosj95/MIMO-UNet.)]
+    4. **Pyramid Architecture Search for Real-Time Image Deblurring**, `Pyramid Net`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Hu_Pyramid_Architecture_Search_for_Real-Time_Image_Deblurring_ICCV_2021_paper.pdf)], [[Code](https://paperswithcode.com/paper/pyramid-architecture-search-for-real-time)]
+    5. **Perceptual Variousness Motion Deblurring with Light Global Context Refinement**, `Perceptual Variousness Block`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Perceptual_Variousness_Motion_Deblurring_With_Light_Global_Context_Refinement_ICCV_2021_paper.pdf)], [[Code](https://paperswithcode.com/paper/perceptual-variousness-motion-deblurring-with)]
 
+
+  - Image Denoising
+    1. **Rethinking Noise Synthesis and Modeling in Raw Denoising**, `Raw Denoising`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fuoli_Fourier_Space_Losses_for_Efficient_Perceptual_Image_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https://github.com/dariofuoli/)]
+    2. **Hyperspectral Image Denoising with Realistic Data**, `Hyperspectral Image Denoising, BIT-Fuyin`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Hyperspectral_Image_Denoising_With_Realistic_Data_ICCV_2021_paper.pdf)], [[Code](https://github.com/ColinTaoZhang/HSIDwRD)]
+    3. **Cross-Patch Graph Convolutional Network for Image Denoising**, `Model Design, GCN`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Cross-Patch_Graph_Convolutional_Network_for_Image_Denoising_ICCV_2021_paper.pdf)], [[Code]()]
+    4. **End-to-End Unsupervised Document Image Blind Denoising**, `Document Image, Blind Denoising`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Gangeh_End-to-End_Unsupervised_Document_Image_Blind_Denoising_ICCV_2021_paper.pdf)], [[Code]()]
+    5. **C2N: Practical Generative Noise Modeling for Real-World Denoising**, `Cycle GAN, Unpaired`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jang_C2N_Practical_Generative_Noise_Modeling_for_Real-World_Denoising_ICCV_2021_paper.pdf)], [[Code](https://github.com/sanghyun-son)]
+    6. **Rethinking Deep Image Prior for Denoising**, `DIP`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jo_Rethinking_Deep_Image_Prior_for_Denoising_ICCV_2021_paper.pdf)], [[Code](https://github.com/gistvision/dip-denosing)]
+  
 ---
 ***Video Manipulation***
-1. **FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation**, `Video Interpolation`, [[Paper](https://arxiv.org/abs/2012.08512)], [[Code](https://tarun005.github.io/FLAVR/)]
-2. **CDFI: Compression-driven Network Design for Frame Interpolation**, `Video Interpolation`, [[Paper](https://arxiv.org/abs/2103.10559)], [[Code](https://github.com/tding1/Compression-Driven-Frame-Interpolation)]
-3. **Deep Animation Video Interpolation in the Wild**, `Video Interpolation`, [[Paper](https://arxiv.org/pdf/2104.02495.pdf)], [[Code](https://github.com/lisiyao21/AnimeInterp)]
-4. **Time Lens: Event-Based Video Frame Interpolation**, `Video Interpolation`, [[Paper](http://rpg.ifi.uzh.ch/docs/CVPR21_Gehrig.pdf)], [[Project](http://rpg.ifi.uzh.ch/TimeLens.html)]
-5. **Temporal Modulation Network for Controllable Space-Time Video Super-Resolution**, `Video Super-Resolution`, [[Code](https://github.com/CS-GangXu/TMNet)], [[Paper](https://arxiv.org/pdf/2104.10642v2.pdf)]
-6. **BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond**, `Video Super-Resolution`, [[Paper](https://ckkelvinchan.github.io/projects/BasicVSR/)], [[Code](https://github.com/ckkelvinchan/BasicVSR-IconVSR)]
-7. **Space-Time Distillation for Video Super-Resolution**, `Video Super-Resolution`, [[Paper]()]
-8. **Video Rescaling Networks with Joint Optimization Strategies for Downscaling and Upscaling**, `Video Rescaling`, [[Project](https://ding3820.github.io/MIMO-VRN/)], [[Code](https://github.com/ding3820/MIMO-VRN)]
-9. **Efficient Multi-Stage Video Denoising with Recurrent Spatio-Temporal Fusion**, `Video Denoising`, [[Paper](https://arxiv.org/pdf/2103.05407.pdf)]
-10. **ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring**, `Video Deblurring`, [[Paper](https://arxiv.org/pdf/2103.04260.pdf)], [[Code]()]
-11. **Gated Spatio-Temporal Attention-Guided Video Deblurring**, `Video Deblurring`
-12. **Real-Time High Resolution Background Matting**, `Video Background Matting`, [[Paper](https://arxiv.org/abs/2012.07810)], [[Code](https://github.com/PeterL1n/BackgroundMattingV2)]
-13. **Deep Video Matting via Spatio-Temporal Alignment and Aggregation**, `Video Matting`, [[Paper](https://arxiv.org/pdf/2104.11208.pdf)]
-14. **Learning to Restore Hazy Video: A New Real-World Dataset and A New Method**, `Video Dehazing`,
-15. **Semi-Supervised Video Deraining with Dynamic Rain Generator**, `Video Deraining`, [[Paper](https://arxiv.org/abs/2103.07939)], [[Code](https://github.com/zsyOAOA/S2VD)]
-16. **Self-Aligned Video Deraining With Transmission-Depth Consistency**, 
-17. **Restore From Restored: Video Restoration With Pseudo Clean Video**, `Video Restoration`, [[Paper](https://arxiv.org/pdf/2003.04279.pdf)]
-18. **Learning Temporal Consistency for Low Light Video Enhancement From Single Images**, `Low-light Video Enhancement`, 
-19. **Progressive Temporal Feature Alignment Network for Video Inpainting**, `Video Inpainting`, [[Paper](https://arxiv.org/pdf/2104.03507.pdf)], [[Code](https://github.com/MaureenZOU/TSAM)]
-20. **Learning by Aligning Videos in Time**, `Video Alignment`, [[Paper](https://arxiv.org/pdf/2103.17260.pdf)]
-21. **Skip-Convolutions for Efficient Video Processing**, `High-Level Video Tasks`, [[Paper](https://arxiv.org/pdf/2104.11487.pdf)]
-22. **Spatio-Temporal Contrastive Video Representation Learning**, `Contrastive Video Representation Learning`, [[Paper](https://arxiv.org/pdf/2008.03800.pdf)]
-23. **Self-Supervised Video GANs: Learning for Appearance Consistency and Motion Coherency**, ``
-24. **Real-Time Selfie Video Stabilization**, `Video Stabilization`, [[Paper](https://arxiv.org/pdf/2009.02007.pdf)]
+- Video SR
+  1. **Omniscient Video Super-Resolution**, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yi_Omniscient_Video_Super-Resolution_ICCV_2021_paper.pdf)], [[Code]( https://github.com/psychopa4/OVSR)]
+  2. **COMISR: Compression-Informed Video Super-Resolution**, `Compressed Frame VSR`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_COMISR_Compression-Informed_Video_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https://github.com/google-research/google-research/tree/master/comisr)]
+  3. **Deep Blind Video Super-resolution**, 'Blind VSR', [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Pan_Deep_Blind_Video_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https://github.com/cscss/DBVSR)]
+  4. **Real-world Video Super-resolution: A Benchmark Dataset and A Decomposition based Learning Scheme**, `New dataset`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Real-World_Video_Super-Resolution_A_Benchmark_Dataset_and_a_Decomposition_Based_ICCV_2021_paper.pdf)], [[Code](https://github.com/IanYeung/RealVSR)]
+  5. **Efficient Video Compression via Content-Adaptive Super-Resolution**, `Video Compression, VSR`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Khani_Efficient_Video_Compression_via_Content-Adaptive_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https:
+//github.com/AdaptiveVC/SRVC.git)]
 
----
-***Optical Flow***
-1. **AutoFlow: Learning a Better Training Set for Optical Flow**, `Oral`, [[Paper](https://arxiv.org/pdf/2104.14544.pdf)], [[Code](https://autoflow-google.github.io/)]
-2. **UPFlow: Upsampling Pyramid for Unsupervised Optical Flow Learning**, `self-guided module`, [[Paper](https://arxiv.org/pdf/2012.00212.pdf)]
-3. **Learning Optical Flow From Still Images**, `introduce a framework to generate accurate ground-truth optical flow annotations`, [[Paper](https://arxiv.org/pdf/2104.03965.pdf)], [[Code](https://github.com/mattpoggi/depthstillation)]
+-Video Deblurring
+  1. **Multi-Scale Separable Network for Ultra-High-Definition Video Deblurring*, `*Multi-Scale`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Deng_Multi-Scale_Separable_Network_for_Ultra-High-Definition_Video_Deblurring_ICCV_2021_paper.pdf)], [[Code](https://github.com/dseny/UHDVD)]
+
+- Video Denosing
+  1. **Unsupervised Deep Video Denoising**, `not require explicit motion compensation`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sheth_Unsupervised_Deep_Video_Denoising_ICCV_2021_paper.pdf)], [[Code](https://sreyas-mohan.github.io/udvd/)]
+  2. **Deep Reparametrization of Multi-Frame Super-Resolution and Denoising**, `Deep Reparametrization, Burst SR/Denoising`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Bhat_Deep_Reparametrization_of_Multi-Frame_Super-Resolution_and_Denoising_ICCV_2021_paper.pdf)], [[Code](https://github.com/martin-danelljan)]
+  3. **Patch Craft: Video Denoising by Deep Modeling and Patch Matching**, `Patch Matching, Non-local`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Vaksman_Patch_Craft_Video_Denoising_by_Deep_Modeling_and_Patch_Matching_ICCV_2021_paper.pdf)], [[Code](https://paperswithcode.com/paper/patch-craft-video-denoising-by-deep-modeling)]
+
