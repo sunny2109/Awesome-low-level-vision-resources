@@ -2,6 +2,8 @@
 
 ### Reading & Technical writing
   - [如何读论文-李沐](https://www.bilibili.com/video/BV1H44y1t75x)
+    - [Paper reading](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=398820&ctype=0) by [李沐](https://github.com/mli)     
+  - [如何用LaTeX写论文？](https://www.bilibili.com/video/BV1DQ4y1U76g?spm_id_from=333.999.0.0)
   - [Common mistakes in technical writing](https://cs.dartmouth.edu/~wjarosz/writing.md.html)
   - [Writing (CS paper) & research resources](https://vision.sjtu.edu.cn/writing.html)
 
