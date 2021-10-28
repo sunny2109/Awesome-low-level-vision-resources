@@ -6,7 +6,8 @@
   - [如何用LaTeX写论文？](https://www.bilibili.com/video/BV1DQ4y1U76g?spm_id_from=333.999.0.0)
   - [Common mistakes in technical writing](https://cs.dartmouth.edu/~wjarosz/writing.md.html)
   - [Writing (CS paper) & research resources](https://vision.sjtu.edu.cn/writing.html)
-
+  
+- - -
 ### Image/Video Processing Lectures
 This collection contains resources related to video/image processing, such as optimization, deep learning, Python, C++, Opencv, FFmpeg, etc.
  - [Lectures](https://github.com/melo2109/Image-Processing-Video-Lectures)
