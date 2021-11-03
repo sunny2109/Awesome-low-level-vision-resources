@@ -23,6 +23,7 @@ This collection contains resources related to video/image processing, such as op
 - Toolbox
   - [Spatially variant filters](https://github.com/assafshocher/spatially-variant-conv/blob/main/spatially_variant_conv.ipynb) by [Assaf Shocher](https://github.com/assafshocher)
   - [ResizeRight (**fully differentiable**)](https://github.com/assafshocher/ResizeRight) by [Assaf Shocher](https://github.com/assafshocher)
+  - [PyTorch Image Quality](https://github.com/photosynthesis-team/piq)
   - [BasicSR](https://github.com/xinntao/BasicSR) by [Xintao](https://github.com/xinntao)
   - [EDSR](https://github.com/sanghyun-son/EDSR-PyTorch) by [Sanghyun Son](https://github.com/sanghyun-son)
   - [Simple-SR](https://github.com/Jia-Research-Lab/Simple-SR) by [Jia Research Lab](https://github.com/Jia-Research-Lab)
