@@ -19,6 +19,10 @@ This collection contains resources related to video/image processing, such as op
 - [ICCV 2021](iccv21.md)
 
 - - -
+### Image & Video Comparison Tools
+- [MegSpot](https://github.com/MegEngine/MegSpot) by [MegEngine](https://github.com/MegEngine)
+- [HandyView](https://github.com/xinntao/HandyView) by [Xinntao](https://github.com/xinntao)
+- - -
 ### Super-Resolution
 - Metrics
   - [PyTorch Image Quality](https://github.com/photosynthesis-team/piq) by [photosynthesis-team](https://github.com/photosynthesis-team/piq)
