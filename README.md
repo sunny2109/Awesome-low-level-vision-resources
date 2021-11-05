@@ -19,14 +19,15 @@ This collection contains resources related to video/image processing, such as op
 - [ICCV 2021](iccv21.md)
 
 - - -
-### Image & Video Comparison Tools
-- [MegSpot](https://github.com/MegEngine/MegSpot) by [MegEngine](https://github.com/MegEngine)
-- [HandyView](https://github.com/xinntao/HandyView) by [Xinntao](https://github.com/xinntao)
-- - -
-### Super-Resolution
+### Image & Video Comparison Metrics/Tools
+- Tools
+  - [MegSpot](https://github.com/MegEngine/MegSpot) by [MegEngine](https://github.com/MegEngine)
+  - [HandyView](https://github.com/xinntao/HandyView) by [Xinntao](https://github.com/xinntao)
 - Metrics
   - [PyTorch Image Quality](https://github.com/photosynthesis-team/piq) by [photosynthesis-team](https://github.com/photosynthesis-team/piq)
   - [Params, FLOPs](https://detectron2.readthedocs.io/en/latest/modules/fvcore.html#fvcore.nn.parameter_count_table) by [fvcore](https://github.com/facebookresearch/fvcore)
+- - -
+### Super-Resolution
 - Toolbox
   - [Spatially variant filters](https://github.com/assafshocher/spatially-variant-conv/blob/main/spatially_variant_conv.ipynb) by [Assaf Shocher](https://github.com/assafshocher)
   - [ResizeRight (**fully differentiable**)](https://github.com/assafshocher/ResizeRight) by [Assaf Shocher](https://github.com/assafshocher)
