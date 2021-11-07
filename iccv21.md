@@ -39,7 +39,7 @@
 - Video SR
   1. **Omniscient Video Super-Resolution**, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yi_Omniscient_Video_Super-Resolution_ICCV_2021_paper.pdf)], [[Code]( https://github.com/psychopa4/OVSR)]
   2. **COMISR: Compression-Informed Video Super-Resolution**, `Compressed Frame VSR`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_COMISR_Compression-Informed_Video_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https://github.com/google-research/google-research/tree/master/comisr)]
-  3. **Deep Blind Video Super-resolution**, `Blind VSR`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Pan_Deep_Blind_Video_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https://github.com/cscss/DBVSR)]
+  3. **Deep Blind Video Super-resolution**, `Blind VSR`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Pan_Deep_Blind_Video_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https://github.com/csbhr/Deep-Blind-VSR)]
   4. **Real-world Video Super-resolution: A Benchmark Dataset and A Decomposition based Learning Scheme**, `New dataset`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Real-World_Video_Super-Resolution_A_Benchmark_Dataset_and_a_Decomposition_Based_ICCV_2021_paper.pdf)], [[Code](https://github.com/IanYeung/RealVSR)]
   5. **Efficient Video Compression via Content-Adaptive Super-Resolution**, `Video Compression, VSR`, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Khani_Efficient_Video_Compression_via_Content-Adaptive_Super-Resolution_ICCV_2021_paper.pdf)], [[Code](https://github.com/AdaptiveVC/SRVC.git)]
 
