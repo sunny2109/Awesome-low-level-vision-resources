@@ -6,6 +6,7 @@
   - [如何用LaTeX写论文？](https://www.bilibili.com/video/BV1DQ4y1U76g?spm_id_from=333.999.0.0)
   - [Common mistakes in technical writing](https://cs.dartmouth.edu/~wjarosz/writing.md.html)
   - [Writing (CS paper) & research resources](https://vision.sjtu.edu.cn/writing.html)
+  - [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips) by [MLNLP-World](https://github.com/MLNLP-World)
   
 - - -
 ### Image/Video Processing Lectures
@@ -29,7 +30,6 @@ This collection contains resources related to video/image processing, such as op
 - - -
 ### Super-Resolution
 - Toolbox
-  - [Spatially variant filters](https://github.com/assafshocher/spatially-variant-conv/blob/main/spatially_variant_conv.ipynb) by [Assaf Shocher](https://github.com/assafshocher)
   - [ResizeRight (**fully differentiable**)](https://github.com/assafshocher/ResizeRight) by [Assaf Shocher](https://github.com/assafshocher)
   - [BasicSR](https://github.com/xinntao/BasicSR) by [Xintao](https://github.com/xinntao)
   - [EDSR](https://github.com/sanghyun-son/EDSR-PyTorch) by [Sanghyun Son](https://github.com/sanghyun-son)
