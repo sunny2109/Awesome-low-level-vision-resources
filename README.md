@@ -7,6 +7,7 @@
   - [Common mistakes in technical writing](https://cs.dartmouth.edu/~wjarosz/writing.md.html)
   - [Writing (CS paper) & research resources](https://vision.sjtu.edu.cn/writing.html)
   - [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips) by [MLNLP-World](https://github.com/MLNLP-World)
+  - [Python Plotting Tools](https://github.com/guanyingc/python_plot_utils) by [Guanying Chen](https://github.com/guanyingc)
   
 - - -
 ### Image/Video Processing Lectures
