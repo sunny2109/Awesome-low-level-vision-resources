@@ -63,3 +63,6 @@ This collection contains resources related to video/image processing, such as op
 ### Dehazing
 - Paper
   - [Awesome Dehazing](https://github.com/youngguncho/awesome-dehazing) by [ygcho](https://github.com/youngguncho)
+  
+- - -
+  - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) by [Jia-Bin Huang](https://github.com/jbhuang0604)
