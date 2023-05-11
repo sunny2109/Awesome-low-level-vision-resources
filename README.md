@@ -8,6 +8,7 @@
   - [Writing (CS paper) & research resources](https://vision.sjtu.edu.cn/writing.html)
   - [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips) by [MLNLP-World](https://github.com/MLNLP-World)
   - [Tips for Writing a Research Paper using LaTeX](https://github.com/guanyingc/latex_paper_writing_tips) by [Guanying Chen](https://github.com/guanyingc)
+  - [科研经验](https://github.com/pengsida/learning_research) by [pengsida](https://github.com/pengsida)
   
 - - -
 ### Image/Video Processing Lectures
