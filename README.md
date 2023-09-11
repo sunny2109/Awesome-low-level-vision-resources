@@ -9,6 +9,7 @@
   - [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips) by [MLNLP-World](https://github.com/MLNLP-World)
   - [Tips for Writing a Research Paper using LaTeX](https://github.com/guanyingc/latex_paper_writing_tips) by [Guanying Chen](https://github.com/guanyingc)
   - [Academic posters](https://github.com/zhoubolei/bolei_awesome_posters) by[Bolei Zhou](https://github.com/zhoubolei)
+  - [PyTorch_IQA](https://github.com/chaofengc/IQA-PyTorch) by [Chaofeng Chen](https://github.com/chaofengc)
   - [科研经验](https://github.com/pengsida/learning_research) by [pengsida](https://github.com/pengsida)
   
 - - -
