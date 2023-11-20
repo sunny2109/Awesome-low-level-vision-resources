@@ -16,6 +16,7 @@
 ### Image/Video Processing Lectures
 This collection contains resources related to video/image processing, such as optimization, deep learning, Python, C++, Opencv, FFmpeg, etc.
  - [Lectures](lectures.md)
+ - [Deep Learning System & AI System](https://github.com/chenzomi12/DeepLearningSystem)
 
 - - -
 ### Top-Ranked Conferences
